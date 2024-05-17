@@ -65,7 +65,6 @@ typings/
 .env
 
 # Compiled output
-dist/
 
 # MacOS specific files
 .DS_Store
